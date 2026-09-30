@@ -7,7 +7,12 @@ runs/
 data/videos/
 data/detections/
 data/test/
+data/gps/
+
 
 *.pt
 *.mp4
 *.avi
+
+.deployment-check-*/
+data/*.db

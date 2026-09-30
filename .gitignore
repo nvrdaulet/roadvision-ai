@@ -6,6 +6,7 @@ __pycache__/
 runs/
 data/videos/
 data/detections/
+data/test/
 
 *.pt
 *.mp4

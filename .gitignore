@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+runs/
+data/videos/
+data/detections/
+
+*.pt
+*.mp4
+*.avi
